@@ -1,0 +1,1 @@
+# Local-Tetra-Patterns-A-New-Feature-Descriptor-for-Content-Based-Image-Retrieval
